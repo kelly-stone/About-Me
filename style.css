@@ -49,14 +49,27 @@ body {
   animation-duration: 3s;
 }
 
-@keyframes modalopen {
+/* @keyframes modalopen {
   from {
     opacity: 0;
   }
   to {
     opacity: 5;
   }
+} */
+@keyframes modalopen {
+  0% {
+    top: 0px;
+    background: rgb(145, 125, 119);
+    width: 100px;
+  }
+  100% {
+    top: 200px;
+    background: rgb(240, 162, 111);
+    width: 750px;
+  }
 }
+
 .modal-header {
   background: coral;
   padding: 15px;
