@@ -60,7 +60,7 @@ body {
 @keyframes modalopen {
   0% {
     top: 0px;
-    background: rgb(145, 125, 119);
+    background: rgb(240, 223, 218);
     width: 100px;
   }
   100% {
@@ -85,5 +85,10 @@ body {
   background-color: coral;
   padding: 10px;
   color: #fff;
+  text-align: center;
+}
+
+.modal-EXPERIENCE {
+  padding: 10px 20px;
   text-align: center;
 }
