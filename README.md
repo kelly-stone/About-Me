@@ -1,5 +1,8 @@
-# HTML-CSS-JS-simpleModal
+About Me
 
+Kelly CV
+
+HTML
 
 CSS: @keyframe 
 
